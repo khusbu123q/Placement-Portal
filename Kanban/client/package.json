@@ -1,0 +1,21 @@
+{
+  "name": "kanban-client",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hello-pangea/dnd": "^16.6.0",
+    "axios": "^1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-router-dom": "^6",
+    "socket.io-client": "^4",
+    "@vitejs/plugin-react": "^4"
+  },
+  "devDependencies": {
+    "vite": "^5"
+  }
+}
